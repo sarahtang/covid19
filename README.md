@@ -1,3 +1,9 @@
+Final project submission for Data 100, Spring 2020 working with covid19 dataset.
+May 2020
+
+Final report under covid19 data analysis pdf.
+Datasets used below!
+
 Links to the csv's we provided:
 
 time_series_covid19_deaths_US.csv: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
